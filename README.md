@@ -15,7 +15,7 @@ This is a glossary guide e-book, with one topic per page.
 
 * Download the [free e-book](innovation-partnership-primer.pdf).
 * If you wish, [pay what you want](https://gumroad.com/l/innovation-partnership-primer).
-* Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
+* Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions, [email me](mailto:joel@joelparkerhenderson.com).
 
 ## Contents
@@ -32,6 +32,8 @@ Innovation partnership
   * How to write a partnership statement
   * How to find partnership opportunities
   * How to formalize partnerships
+
+Innovation preparedness
 
   * Research and development (R&D)
   * Partnership Readiness Level (PRL)
@@ -61,24 +63,13 @@ Startup entrances
 
 Strategy
 
-Vision, Mission, Values
-
-  * Vision statement](vision-statement) + [examples
-  * Mission statement](mission-statement) + [examples
-  * Values statement](values-statement) + [examples
-
 Business models
 
   * Direct sales business model
-  * Direct sales business model - pros/cons
   * Subscription business model
-  * Subscription business model - pros/cons
   * Advertising business model
-  * Advertising business model - pros/cons
   * Marketplace business model
-  * Marketplace business model - pros/cons
   * Franchise business model
-  * Franchise business model - pros/cons
 
 Strategic effects
 
@@ -111,10 +102,6 @@ Time-to-market (TTM)
   * Crossing the chasm
   * Early adopters
   * Early evangelists
-
-Industry introductions
-
-Company touchpoints
 
 Company departments
 
@@ -169,35 +156,8 @@ Organizational values frameworks
   * Triple bottom line (TBL)
   * Inclusive language
   * Culture fit and values alignment
+  * Cultural dimensions
 
-Cultural dimensions
-
-  * Power distance
-  * Individualism versus collectivism
-  * Long-term orientation versus short-term orientation
-  * Uncertainty avoidance
-  * Indulgence versus restraint
-  * Masculinity versus femininity
-
-Sales
-
-
-Marketing introduction
-
-  * Marketing channels
-  * Affiliate marketing
-  * Account-based marketing
-  * Attribute-based marketing
-  * Content marketing
-  * Guerilla marketing
-  * Word-of-mouth marketing (WOMM)
-  * Customer relationship management (CRM)
-  * Stealth mode
-  * Thought leadership
-  * Social proof
-
-
-Planning
 
 North Star
 
@@ -507,14 +467,12 @@ Aphorisms
 
 Soft skills
 
-  * How to give a demo
   * How to collaborate
   * How to lead a meeting
   * How to work with stakeholders
   * How to apply for grants
   * How to get feedback
   * How to give feedback
-  * How to manage up
 
 Conclusion
 
