@@ -11,13 +11,15 @@ Misc:
 
 agile / lean / kanban / xp / waterfall
 
-strategic alignment
+project management triangle: scope; cost; time.
 
 satisficing
 
 franchise-partnership
 
 servant-leadership
+
+quality function deployment (QFD)
 
 Diffusion of innovations (Everett Rogers) (relative advantage; observability; trialability; compatibility; complexity; risk)
 

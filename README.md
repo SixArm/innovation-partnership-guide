@@ -9,7 +9,7 @@
 
 # Innovation Partnership Primer
 
-<img src="README.png" alt="UI/UX Primer Logo" style="width: 100%;"/>
+<img src="README.jpg" alt="splash" style="width: 100%;"/>
 
 Innovation Partnership Primer: Concepts, Tactics, Ideas.
 
@@ -285,12 +285,14 @@ Conclusion
   * About the ebook
   * About related projects
 
-## More primers
+## All our primers
+
+* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
 
 * [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+
+* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
 
 * [Project Management Primer](https://github.com/sixarm/project-management-primer)
 
 * [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
-
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
