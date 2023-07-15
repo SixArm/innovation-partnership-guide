@@ -9,6 +9,8 @@
 
 # Innovation Partnership Primer
 
+<img src="README.png" alt="UI/UX Primer Logo" style="width: 100%;"/>
+
 Innovation Partnership Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page.
