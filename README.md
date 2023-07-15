@@ -100,7 +100,6 @@ Business growth models
 Business analysis
 
   * North Star
-  * Strategic balanced scorecard (SBS)
   * Five Forces analysis
   * PESTLE analysis
   * SWOT analysis

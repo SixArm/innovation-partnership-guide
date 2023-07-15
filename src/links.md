@@ -71,7 +71,6 @@
 ### [Business analysis](business-analysis)
 
 * [North Star](north-star)
-* [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
 * [Five Forces analysis](five-forces-analysis)
 * [PESTLE analysis](pestle-analysis)
 * [SWOT analysis](swot-analysis)
