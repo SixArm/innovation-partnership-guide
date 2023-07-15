@@ -21,14 +21,20 @@
 * [Kondratiev long waves](kondratiev-long-waves)
 * [Contingency theory](contingency-theory)
 
-### [Synergy](synergy)
+### [Strategic alignment](strategic-alignment)
 
-* [Business partnership types](business-partnership-types)
+* [Strategic alliance](strategic-alliance)
+* [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
 * [Strategic partnership versus tactical partnership](strategic-partnership-versus-tactical-partnership)
+* [Strategy map](strategy-map)
+* [Synergy](synergy)
+
+### [Business partnership types](business-partnership-types)
+
+* [Joint venture](joint-venture)
 * [Public-private partnership (PPP)](public-private-partnership)
 * [University partnership](university-partnership)
 * [Government partnership](government-partnership)
-* [Strategic alliance](strategic-alliance)
 
 ## [Partnership life cycle (PLC)](partnership-life-cycle)
 
@@ -219,7 +225,7 @@
 * [If you want to go fast go alone; if you want to go far go together](if-you-want-to-go-fast)
 * [Perfect partners don't exist](perfect-partners-dont-exist)
 * [The whole is greater than the sum of the parts](the-whole-is-greater-than-the-sum-of-the-parts)
-  
+
 ### [Idioms](idioms)
 
 * [Ahead of the pack](ahead-of-the-pack)

@@ -11,6 +11,10 @@ Misc:
 
 agile / lean / kanban / xp / waterfall
 
+strategic alignment
+
+satisficing
+
 franchise-partnership
 
 servant-leadership
@@ -34,11 +38,57 @@ proof-of-capability
 "Foot in the door"
 
 contingency-theory:
-Fiedler's Contingency Model, 
-Hersey-Blanchard's Situational Leadership Model, 
+Fiedler's Contingency Model,
+Hersey-Blanchard's Situational Leadership Model,
 Path-Goal Theory.
 
 High-trust teams
+
+divergent thinking and convergent thinking
+
+einstellung - a creative block faced by experts
+
+stages of problem solving: preparation; incubation; illumination; verification.
+
+association theory
+
+creativity theory
+
+three types of business creativity: exploratory creativity; normative creativity; serendipitous creativity
+
+groupthink
+
+five Ws, one H technique
+
+left-right brain technique
+
+product morphology analysis
+
+systems thinking
+
+TRIZ problem-solving
+
+gemba
+
+hidden needs analysis
+
+repertory grid analysis / repertory grid technique
+
+Johari window
+
+empathic design
+
+ethnographic market research
+
+systematic observation
+
+contextual interviews
+
+covert observation
+
+lead users (by eric von hippel at MIT)
+
+conjoint analysis 9or stated preference technique or trade-off analysis)
 
 Bowling Pin Strategy
 
@@ -46,6 +96,16 @@ macroeconomic progress (physical capital; human capital; technical progress)
 
 service-augmentation
 social-innovation
+
+Project Metrics:
+
+* time to break even (TBE)
+* internal rate of return (IRR)
+* NPV
+* Monte-Carlo simulation
+* Bubble diagrams
+* Project scoring rubric
+* Risk/reward scoring
 
 Impact:
 * [Social impact](social-impact)
