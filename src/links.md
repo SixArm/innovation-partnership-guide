@@ -1,4 +1,4 @@
-### [Introduction](innovation-partnership-primer-introduction)
+### [Introduction](innovation-partnership-guide-introduction)
 
 ### [Innovation partnership](innovation-partnership)
 
@@ -143,7 +143,7 @@
 * [Key Performance Indicators (KPIs)](key-performance-indicators)
 * [Risks, Actions, Issues, Decisions (RAID)](risks-actions-issues-decisions)
 * [SMART criteria](smart-criteria)
-* For more see [Project Management Primer](https://github.com/sixarm/project-management-primer)
+* For more see [Project Management Guide](https://github.com/sixarm/project-management-guide)
 
 ### [Project management](project-management)
 
@@ -151,7 +151,7 @@
 * [Project versus program](project-versus-program)
 * [Project portfolio management (PPM)](project-portfolio-management)
 * [Portfolio optimization](portfolio-optimization)
-* For more see [Project Management Primer](https://github.com/sixarm/project-management-primer)
+* For more see [Project Management Guide](https://github.com/sixarm/project-management-guide)
 
 ### [Teamwork](teamwork)
 
@@ -231,7 +231,7 @@
 * [Shoulder to shoulder](shoulder-to-shoulder)
 * [The ball is in your court](the-ball-is-in-your-court)
 * [Think outside of the box](think-outside-of-the-box)
-* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
 ### [Aphorisms](aphorisms)
 
@@ -239,7 +239,7 @@
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
 * [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
 * [Chesterton's fence](chestertons-fence)
-* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
 ### [Soft skills](soft-skills)
 
@@ -249,7 +249,7 @@
 * [How to get feedback](how-to-get-feedback)
 * [How to give feedback](how-to-give-feedback)
 
-### [Conclusion](innovation-partnership-primer-conclusion)
+### [Conclusion](innovation-partnership-guide-conclusion)
 
 * [About the editor](about-the-editor)
 * [About the AI](about-the-ai)

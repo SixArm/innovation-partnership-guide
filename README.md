@@ -1,22 +1,20 @@
 <!--
-  * browser: innovation-partnership-primer
+  * browser: innovation-partnership-guide
   * tracker: d7ccfdbf6e55782217db0f13368f17b3
   * version: 1.0.0
-  * updated: 2023-07-08T17:38:30Z
+  * updated: 2023-07-26T11:45:12Z
   * contact: Joel Parker Henderson (https://joelparkerhenderson.com)
   * options: commentable
 -->
 
-# Innovation Partnership Primer
+# Innovation Partnership Guide
 
 <img src="README.jpg" alt="splash" style="width: 100%;"/>
 
-Innovation Partnership Primer: Concepts, Tactics, Ideas.
+Innovation Partnership Guide. This book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-This is a glossary guide e-book, with one topic per page.
-
-* Download the [free e-book](innovation-partnership-primer.pdf).
-* If you wish, [pay what you want](https://gumroad.com/l/innovation-partnership-primer).
+* Download the [free ebook](innovation-partnership-guide.pdf).
+* If you wish, [pay what you want](https://gumroad.com/l/innovation-partnership-guide).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions, [email me](mailto:joel@joelparkerhenderson.com).
 
@@ -27,7 +25,7 @@ Introduction
   * What is this book?
   * Who is this for?
   * Why am I creating this?
-  * Are there more primers?
+  * Are there more guides?
 
 Innovation partnership
 
@@ -172,7 +170,7 @@ Intent plan
   * Key Performance Indicators (KPIs)
   * Risks, Actions, Issues, Decisions (RAID)
   * SMART criteria
-  * For more see Project Management Primer
+  * For more see Project Management Guide
 
 Project management
 
@@ -180,7 +178,7 @@ Project management
   * Project versus program
   * Project portfolio management (PPM)
   * Portfolio optimization
-  * For more see Project Management Primer
+  * For more see Project Management Guide
 
 Teamwork
 
@@ -260,7 +258,7 @@ Idioms
   * Shoulder to shoulder
   * The ball is in your court
   * Think outside of the box
-  * For more see our Business Lingo Primer
+  * For more see our Business Lingo Guide
 
 Aphorisms
 
@@ -268,7 +266,7 @@ Aphorisms
   * The Law of Conservation of Complexity (Tesler's Law)
   * The Pareto Principle (The 80/20 Rule)
   * Chesterton's fence
-  * For more see our Business Lingo Primer
+  * For more see our Business Lingo Guide
 
 Soft skills
 
@@ -285,14 +283,14 @@ Conclusion
   * About the ebook
   * About related projects
 
-## All our primers
+## All our guides
 
-* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
+* [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
 
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+* [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
 
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
-* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+* [Project Management Guide](https://github.com/sixarm/project-management-guide)
 
-* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
+* [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
