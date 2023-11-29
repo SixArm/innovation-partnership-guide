@@ -20,277 +20,268 @@ Innovation Partnership Guide. This book explains one topic per page, like a big 
 
 ## Contents
 
-Introduction
+### [Introduction](topics/innovation-partnership-guide-introduction)
 
-  * What is this book?
-  * Who is this for?
-  * Why am I creating this?
-  * Are there more guides?
+### [Innovation partnership](topics/innovation-partnership)
 
-Innovation partnership
+* [How to write a partnership statement](topics/how-to-write-a-partnership-statement)
+* [How to find partnership opportunities](topics/how-to-find-partnership-opportunities)
+* [How to formalize partnerships](topics/how-to-formalize-partnerships)
+* [How to apply for grants](topics/how-to-apply-for-grants)
 
-  * How to write a partnership statement
-  * How to find partnership opportunities
-  * How to formalize partnerships
-  * How to apply for grants
+### [Innovation management](topics/innovation-management)
 
-Innovation management
+* [Drivers of the need for innovation](topics/drivers-of-the-need-for-innovation)
+* [Degrees of innovation](topics/degrees-of-innovation)
+* [Culture of innovation](topics/culture-of-innovation)
+* [Open innovation](topics/open-innovation)
+* [Voice of the Customer (VoC)](topics/voice-of-the-customer)
+* [Subject Matter Expert (SME)](topics/subject-matter-expert)
+* [Disruptive technology](topics/disruptive-technology)
+* [Diffusion of innovations](topics/diffusion-of-innovations)
+* [Stage-gate](topics/stage-gate)
+* [Kondratiev long waves](topics/kondratiev-long-waves)
+* [Contingency theory](topics/contingency-theory)
 
-  * Drivers of the need for innovation
-  * Degrees of innovation
-  * Culture of innovation
-  * Open innovation
-  * Voice of the Customer (VoC)
-  * Subject Matter Expert (SME)
-  * Disruptive technology
-  * Diffusion of innovations
-  * Stage-gate
-  * Kondratiev long waves
-  * Contingency theory
+### [Strategic alignment](topics/strategic-alignment)
 
-Strategic alignment
+* [Strategic alliance](topics/strategic-alliance)
+* [Strategic balanced scorecard (SBS)](topics/strategic-balanced-scorecard)
+* [Strategic partnership versus tactical partnership](topics/strategic-partnership-versus-tactical-partnership)
+* [Strategy map](topics/strategy-map)
+* [Synergy](topics/synergy)
 
-  * Strategic alliance
-  * Strategic balanced scorecard (SBS)
-  * Strategic partnership versus tactical partnership
-  * Strategy map
-  * Synergy
+### [Business partnership types](topics/business-partnership-types)
 
-Business partnership types
+* [Joint venture](topics/joint-venture)
+* [Public-private partnership (PPP)](topics/public-private-partnership)
+* [University partnership](topics/university-partnership)
+* [Government partnership](topics/government-partnership)
 
-  * Joint venture
-  * Public-private partnership (PPP)
-  * University partnership
-  * Government partnership
+## [Partnership life cycle (PLC)](topics/partnership-life-cycle)
 
-Partnership life cycle (PLC)
+* [Partnership Readiness Level (PRL)](topics/partnership-readiness-level)
+* [Project portfolio management (PPM)](topics/project-portfolio-management)
+* [Innovation Pentathlon framework](topics/innovation-pentathlon-framework)
+* [Partner Relationship Management (PRM)](topics/partner-relationship-management)
+* [Partnership metrics](topics/partnership-metrics)
 
-  * Partnership Readiness Level (PRL)
-  * Project portfolio management (PPM)
-  * Innovation Pentathlon framework
-  * Partner Relationship Management (PRM)
-  * Partnership metrics
+## Strategy
 
-Strategy
+### [Business model](topics/business-model)
 
-Business model
+* [Business Model Innovation (BMI)](topics/business-model-innovation)
+* [Business Model Canvas (BMC)](topics/business-model-canvas)
 
-  * Business Model Innovation (BMI)
-  * Business Model Canvas (BMC)
+### [Strategic effects](topics/strategic-effects)
 
-Strategic effects
+* [Network effects](topics/network-effects)
+* [Platform effects](topics/platform-effects)
+* [Flywheel effects](topics/flywheel-effects)
+* [Viral effects](topics/viral-effects)
+* [Moat effects](topics/moat-effects)
+* [Threshold effects](topics/threshold-effects)
+* [Scale effects](topics/scale-effects)
+* [Leverage effects](topics/leverage-effects)
+* [Monopoly effects](topics/monopoly-effects)
 
-  * Network effects
-  * Platform effects
-  * Flywheel effects
-  * Viral effects
-  * Moat effects
-  * Threshold effects
-  * Scale effects
-  * Leverage effects
-  * Monopoly effects
+### [Business growth models](topics/business-growth-models)
 
-Business growth models
+* [Market expansion](topics/market-expansion)
+* [Product line extension](topics/product-line-extension)
 
-  * Market expansion
-  * Product line extension
+### [Business analysis](topics/business-analysis)
 
-Business analysis
+* [North Star](topics/north-star)
+* [Five Forces analysis](topics/five-forces-analysis)
+* [PESTLE analysis](topics/pestle-analysis)
+* [SWOT analysis](topics/swot-analysis)
+* [Feasibility analysis](topics/feasibility-analysis)
+* [Stakeholder analysis](topics/stakeholder-analysis)
+* [Use case analysis](topics/use-case-analysis)
+* [Process mapping](topics/process-mapping)
+* [Value stream mapping (VSM)](topics/value-stream-mapping)
+* [Maturity models](topics/maturity-models)
+* [Demand forecasting](topics/demand-forecasting)
+* [Predictive analytics](topics/predictive-analytics)
 
-  * North Star
-  * Five Forces analysis
-  * PESTLE analysis
-  * SWOT analysis
-  * Feasibility analysis
-  * Stakeholder analysis
-  * Use case analysis
-  * Process mapping
-  * Value stream mapping (VSM)
-  * Maturity models
-  * Demand forecasting
-  * Predictive analytics
+### [Business strategy and business tactics](topics/business-strategy-and-business-tactics)
 
-Business strategy and business tactics
+* [Research and development (R&D)](topics/research-and-development)
+* [Ability, capability, capacity](topics/ability-capability-capacity)
+* [Business development](topics/business-development)
+* [Outputs versus outcomes](topics/outputs-versus-outcomes)
+* [Due diligence](topics/due-diligence)
 
-  * Research and development (R&D)
-  * Ability, capability, capacity
-  * Business development
-  * Outputs versus outcomes
-  * Due diligence
+### [Creative thinking techniques](topics/creative-thinking-techniques)
 
-Creative thinking techniques
+* [Ideation](topics/ideation)
+* [Big Hairy Audacious Goal (BHAG)](topics/big-hairy-audacious-goal)
+* [Brainstorming](topics/brainstorming)
+* [Thinking hats](topics/thinking-hats)
+* [SCAMPER](topics/scamper)
+* [Futurespective](topics/futurespective)
 
-  * Ideation
-  * Big Hairy Audacious Goal (BHAG)
-  * Brainstorming
-  * Thinking hats
-  * SCAMPER
-  * Futurespective
+### [Startup entrances](topics/startup-entrances)
 
-Startup entrances
+* [Incubator](topics/incubator)
+* [Accelerator](topics/accelerator)
+* [Skunkworks](topics/skunkworks)
+* [Spinoff](topics/spinoff)
+* [Spinout](topics/spinout)
+* [Technology transfer](topics/technology-transfer)
 
-  * Incubator
-  * Accelerator
-  * Skunkworks
-  * Spinoff
-  * Spinout
-  * Technology transfer
+## Industry introductions
 
-Industry introductions
+### [Roles and responsibilities](topics/roles-and-responsibilities)
 
-Roles and responsibilities
+* [Partnership Manager](topics/partnership-manager)
+* [Product Manager](topics/product-manager)
+* [Project Manager (PM)](topics/project-manager)
+* [Responsibility assignment matrix (RAM)](topics/responsibility-assignment-matrix)
+* [RACI matrix](topics/raci-matrix)
+* [PARIS matrix](topics/paris-matrix)
+* [Organizational chart](topics/organizational-chart)
+* [Chain of command](topics/chain-of-command)
+* [Stakeholders](topics/stakeholders)
 
-  * Partnership Manager
-  * Product Manager
-  * Project Manager (PM)
-  * Responsibility assignment matrix (RAM)
-  * RACI matrix
-  * PARIS matrix
-  * Organizational chart
-  * Chain of command
-  * Stakeholders
+### [Organizational values frameworks](topics/organizational-values-frameworks)
 
-Organizational values frameworks
+* [Code of conduct](topics/code-of-conduct)
+* [Code of ethics](topics/code-of-ethics)
+* [Membership values](topics/membership-values)
+* [Leadership values](topics/leadership-values)
+* [Cultural values](topics/cultural-values)
+* [Social value orientation (SVO)](topics/social-value-orientation)
+* [Culture fit and values alignment](topics/culture-fit-and-values-alignment)
+* [Triple bottom line](topics/triple-bottom-line)
+* [Cultural dimensions](topics/cultural-dimensions)
 
-  * Code of conduct
-  * Code of ethics
-  * Membership values
-  * Leadership values
-  * Cultural values
-  * Social value orientation (SVO)
-  * Culture fit and values alignment
-  * Triple bottom line
-  * Cultural dimensions
+## Planning
 
-Planning
+### [Intent plan](topics/intent-plan)
 
-Intent plan
+* [Objectives and Key Results (OKRs)](topics/objectives-and-key-results)
+* [Key Performance Indicators (KPIs)](topics/key-performance-indicators)
+* [Risks, Actions, Issues, Decisions (RAID)](topics/risks-actions-issues-decisions)
+* [SMART criteria](topics/smart-criteria)
+* For more see [Project Management Guide](topics/https://github.com/sixarm/project-management-guide)
 
-  * Objectives and Key Results (OKRs)
-  * Key Performance Indicators (KPIs)
-  * Risks, Actions, Issues, Decisions (RAID)
-  * SMART criteria
-  * For more see Project Management Guide
+### [Project management](topics/project-management)
 
-Project management
+* [Project management life cycle (PMLC)](topics/project-management-life-cycle)
+* [Project versus program](topics/project-versus-program)
+* [Project portfolio management (PPM)](topics/project-portfolio-management)
+* [Portfolio optimization](topics/portfolio-optimization)
+* For more see [Project Management Guide](topics/https://github.com/sixarm/project-management-guide)
 
-  * Project management life cycle (PMLC)
-  * Project versus program
-  * Project portfolio management (PPM)
-  * Portfolio optimization
-  * For more see Project Management Guide
+### [Teamwork](topics/teamwork)
 
-Teamwork
+* [Forming, Storming, Norming, Performing (FSNP)](topics/forming-storming-norming-performing)
+* [Icebreaker questions](topics/icebreaker-questions)
+* [TEAM FOCUS](topics/team-focus)
+* [Active listening](topics/active-listening)
+* [Shoshin](topics/shoshin)
+* [Blameless retrospective](topics/blameless-retrospective)
 
-  * Forming, Storming, Norming, Performing (FSNP)
-  * Icebreaker questions
-  * TEAM FOCUS
-  * Active listening
-  * Shoshin
-  * Blameless retrospective
+## [Digital transformation](topics/digital-transformation)
 
-Digital transformation
+* [Business information systems](topics/business-information-systems)
+* [Change management](topics/change-management)
+* [Standard Operating Procedure (SOP)](topics/standard-operating-procedure)
+* [Playbook](topics/playbook)
+* [Runbook](topics/runbook)
 
-  * Business information systems
-  * Change management
-  * Standard Operating Procedure (SOP)
-  * Playbook
-  * Runbook
+### [Artificial intelligence (AI)](topics/artificial-intelligence)
 
-Artificial intelligence (AI)
+* [AI for partner management](topics/ai-for-project-management)
+* [AI for product development](topics/ai-for-product-development)
+* [AI for project management](topics/ai-for-project-management)
+* [AI for business strategy](topics/ai-for-business-strategy)
 
-  * AI for partner management
-  * AI for product development
-  * AI for project management
-  * AI for business strategy
+## Law
 
-Law
+### [Intellectual Property (IP)](topics/intellectual-property)
 
-Intellectual Property (IP)
+* [Patent](topics/patent)
+* [Copyright](topics/copyright)
+* [Trademark](topics/trademark)
+* [Trade secret](topics/trade-secret)
+* [Industrial design rights](topics/industrial-design-rights)
 
-  * Patent
-  * Copyright
-  * Trademark
-  * Trade secret
-  * Industrial design rights
+### [Legal agreements](topics/legal-agreements)
 
-Legal agreements
+* [Partnership agreement](topics/partnership-agreement)
+* [Joint Venture agreement (JVA)](topics/joint-venture-agreement)
+* [Framework agreement](topics/framework-agreement)
+* [Service agreement](topics/service-agreement)
+* [Consulting agreement](topics/consulting-agreement)
+* [Subcontracting agreement](topics/subcontracting-agreement)
+* [Confidentiality agreement](topics/confidentiality-agreement)
+* [Non-disclosure agreement (NDA)](topics/non-disclosure-agreement)
+* [Non-compete agreement](topics/non-compete-agreement)
+* [Non-solicitation agreement](topics/non-solicitation-agreement)
+* [Work-for-hire agreement](topics/work-for-hire-agreement)
+* [Arbitration agreement](topics/arbitration-agreement)
+* [Letter Of Intent (LOI)](topics/letter-of-intent)
+* [Power Of Attorney (POA)](topics/power-of-attorney)
+* Memorandum Of Understanding (MOU): see Letter Of Intent (LOI)
+* Master Services Agreement (MSA): see Framework agreement
 
-  * Partnership agreement
-  * Joint Venture agreement (JVA)
-  * Framework agreement
-  * Service agreement
-  * Consulting agreement
-  * Subcontracting agreement
-  * Confidentiality agreement
-  * Non-disclosure agreement (NDA)
-  * Non-compete agreement
-  * Non-solicitation agreement
-  * Work-for-hire agreement
-  * Arbitration agreement
-  * Letter Of Intent (LOI)
-  * Power Of Attorney (POA)
-  * Memorandum Of Understanding (MOU): see Letter Of Intent (LOI)
-  * Master Services Agreement (MSA): see Framework agreement
+### [Technology transfer agreements](topics/technology-transfer-agreements)
 
-Technology transfer agreements
+* [Licensing agreement (LA)](topics/licensing-agreement)
+* [Joint development agreement (JDA)](topics/joint-development-agreement)
+* [Assignment agreement (AA)](topics/assignment-agreement)
+* [Cooperative Research and Development Agreement (CRADA)](topics/cooperative-research-and-development-agreement)
+* [Facility Use/Service Agreement (FUSA)](topics/facility-use-service-agreement)
+* [Material Transfer Agreement (MTA)](topics/material-transfer-agreement)
+* [Technical Assistance Agreement (TAA)](topics/technical-assistance-agreement)
+* [Technology Transfer Office (TTO)](topics/technology-transfer-office)
 
-  * Licensing agreement (LA)
-  * Joint development agreement (JDA)
-  * Assignment agreement (AA)
-  * Cooperative Research and Development Agreement (CRADA)
-  * Facility Use/Service Agreement (FUSA)
-  * Material Transfer Agreement (MTA)
-  * Technical Assistance Agreement (TAA)
-  * Technology Transfer Office (TTO)
+## Lore
 
-Lore
+### [Partnership quotations](topics/partnership-quotations)
 
-Partnership quotations
+* [If you want to go fast go alone; if you want to go far go together](topics/if-you-want-to-go-fast)
+* [Perfect partners don't exist](topics/perfect-partners-dont-exist)
+* [The whole is greater than the sum of the parts](topics/the-whole-is-greater-than-the-sum-of-the-parts)
 
-  * If you want to go fast go alone; if you want to go far go together
-  * Perfect partners don't exist
-  * The whole is greater than the sum of the parts
+### [Idioms](topics/idioms)
 
-Idioms
+* [Ahead of the pack](topics/ahead-of-the-pack)
+* [Shoulder to shoulder](topics/shoulder-to-shoulder)
+* [The ball is in your court](topics/the-ball-is-in-your-court)
+* [Think outside of the box](topics/think-outside-of-the-box)
+* For more see our [Business Lingo Guide](topics/https://github.com/sixarm/business-lingo-guide)
 
-  * Ahead of the pack
-  * Shoulder to shoulder
-  * The ball is in your court
-  * Think outside of the box
-  * For more see our Business Lingo Guide
+### [Aphorisms](topics/aphorisms)
 
-Aphorisms
+* [The Law of Demos (Kapor's Law)](topics/the-law-of-demos)
+* [The Law of Conservation of Complexity (Tesler's Law)](topics/the-law-of-conservation-of-complexity)
+* [The Pareto Principle (The 80/20 Rule)](topics/the-pareto-principle)
+* [Chesterton's fence](topics/chestertons-fence)
+* For more see our [Business Lingo Guide](topics/https://github.com/sixarm/business-lingo-guide)
 
-  * The Law of Demos (Kapor's Law)
-  * The Law of Conservation of Complexity (Tesler's Law)
-  * The Pareto Principle (The 80/20 Rule)
-  * Chesterton's fence
-  * For more see our Business Lingo Guide
+### [Soft skills](topics/soft-skills)
 
-Soft skills
+* [How to collaborate](topics/how-to-collaborate)
+* [How to work with stakeholders](topics/how-to-work-with-stakeholders)
+* [How to lead a meeting](topics/how-to-lead-a-meeting)
+* [How to get feedback](topics/how-to-get-feedback)
+* [How to give feedback](topics/how-to-give-feedback)
 
-  * How to collaborate
-  * How to work with stakeholders
-  * How to lead a meeting
-  * How to get feedback
-  * How to give feedback
+### [Conclusion](topics/innovation-partnership-guide-conclusion)
 
-Conclusion
-
-  * About the editor
-  * About the AI
-  * About the ebook
-  * About related projects
+* [About the editor](topics/about-the-editor)
+* [About the AI](topics/about-the-ai)
+* [About the ebook](topics/about-the-ebook-pdf)
+* [About related projects](topics/about-related-projects)
 
 ## All our guides
 
 * [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
-
 * [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
-
 * [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
-
 * [Project Management Guide](https://github.com/sixarm/project-management-guide)
-
 * [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
