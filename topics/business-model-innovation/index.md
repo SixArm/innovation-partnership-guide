@@ -2,7 +2,7 @@
 
 Business model innovation refers to the creation, modification, or reconfiguration of the fundamental elements and components of a business model to deliver new value propositions, capture new markets, or improve existing operations. It involves changing how a company creates, delivers, and captures value to achieve a competitive advantage and drive growth.
 
-Key aspects…
+**Key aspects**:
 
 Value Proposition: Start with reimagining the value proposition, which is the unique benefit of an offering. Identify new market needs, address unmet demands, or create ways to differentiate.
 

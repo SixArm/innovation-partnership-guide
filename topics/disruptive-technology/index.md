@@ -4,7 +4,7 @@ Disruptive technology refers to an innovation that significantly alters or disru
 
 Examples of disruptive technologies include personal computers, which disrupted mainframe computers; digital photography, which disrupted film photography; mobile phones, which disrupted landline phones; online streaming services, which disrupted video rental and broadcast industries; ride-sharing platforms, which disrupted taxis.
 
-Key aspects…
+**Key aspects**:
 
 Game-changing Innovation: Disruptive technologies introduce innovations that fundamentally change the game. They offer new capabilities, functionalities, or efficiencies that challenge the status quo.
 

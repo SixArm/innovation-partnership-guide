@@ -2,7 +2,7 @@
 
 Synergy refers to the phenomenon where the combined efforts or resources of individuals or elements produce results that are greater than the sum of their individual contributions. It is often described as "the whole is greater than the sum of its parts."
 
-Key aspects…
+**Key aspects**:
 
 Complementary Strengths: Synergy often arises when individuals or elements bring complementary strengths, skills, or expertise to a situation. For example, in a team, members with different areas of expertise can leverage their knowledge and skills to address various aspects of a problem, resulting in a more comprehensive solution.
 

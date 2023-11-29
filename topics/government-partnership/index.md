@@ -2,7 +2,7 @@
 
 Government partnerships refer to collaborative relationships between government entities and other organizations, such as non-profit organizations, businesses, academic institutions, or community groups. These partnerships aim to address societal challenges, achieve shared goals, and leverage resources and expertise to deliver better outcomes for communities.
 
-Key aspects…
+**Key aspects**:
 
 Resource Sharing: Government partnerships enable the sharing of resources, including funding, expertise, facilities, and data, to deliver more effective and efficient services.
 

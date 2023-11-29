@@ -2,7 +2,7 @@
 
 A joint venture (JV) is a business arrangement in which two or more independent entities come together to form a new entity or partnership to pursue a specific business objective. In a joint venture, the participating entities contribute resources, expertise, and capital to the newly formed entity and share in its risks, rewards, and control.
 
-Key characteristics…
+^**Key (\w+)**:
 
 Shared Ownership: Joint ventures involve shared ownership between two or more entities. Each entity typically holds a percentage of ownership in the new venture.
 

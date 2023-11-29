@@ -2,7 +2,7 @@
 
 A strategic alliance is a collaborative relationship formed between two or more organizations to pursue mutually beneficial goals or objectives. It involves the pooling of resources, expertise, and capabilities to achieve strategic advantages that may not be achievable individually.
 
-Key aspects…
+**Key aspects**:
 
 Shared Goals: Strategic alliances aim to achieve specific objectives that align with the strategic priorities of each participating organization. These goals can include market expansion, product development, technology sharing, cost reduction, or accessing new distribution channels.
 

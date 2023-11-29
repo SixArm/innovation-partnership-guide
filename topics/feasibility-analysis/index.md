@@ -2,7 +2,7 @@
 
 Feasibility analysis assesses the viability of a proposed project or solution. The analysis helps stakeholders make informed decisions about whether to move forward with work, and if so, how to proceed with its implementation.
 
-Key aspects:
+**Key aspects**:
 
 * Technical feasibility: Assess whether the proposed solution can be implemented using available technology or whether new technology needs to be developed. Consider factors such as the complexity of the project, the availability of required resources, and the existing infrastructure.
 

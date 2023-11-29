@@ -2,7 +2,7 @@
 
 Business development refers to the activities, strategies, and initiatives undertaken by a company to improve its market position, expand its customer base, and generate growth opportunities.
 
-Key aspects…
+**Key aspects**:
 
 Market Analysis: Business development starts with a thorough analysis of the market landscape to identify potential opportunities, market trends, customer needs, and competitive dynamics.
 

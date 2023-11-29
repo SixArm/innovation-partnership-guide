@@ -2,7 +2,7 @@
 
 Research and Development (R&D) refers to the systematic and creative work undertaken to expand knowledge, explore new possibilities, and develop innovative solutions, products, or services. It is a critical process for organizations across various sectors, including technology, healthcare, engineering, and manufacturing.
 
-Key aspects…
+**Key aspects**:
 
 Knowledge Creation: R&D activities aim to generate new knowledge, insights, discoveries, and intellectual property such as patents, copyrights, or trademarks.
 

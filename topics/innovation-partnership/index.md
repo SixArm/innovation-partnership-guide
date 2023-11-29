@@ -2,7 +2,7 @@
 
 An innovation partnership refers to a collaborative relationship between two or more entities, such as companies, institutions, or agencies, with the aim of fostering innovation and driving advancements in a specific field or industry. Innovation partnerships can take various forms, such as industry-academia collaborations, public-private partnerships, consortia, joint ventures, or technology transfer agreements.
 
-Key aspects…
+**Key aspects**:
 
 Shared Objectives: Partners come together to address specific challenges, explore new opportunities,  develop groundbreaking technologies or products, or leverage expertise toward mutual goals.
 
