@@ -2,7 +2,7 @@
 
 A culture of innovation refers to an organizational environment that encourages and supports the creation, exploration, and implementation of new ideas and approaches. It is a mindset and set of practices that foster creativity, risk-taking, collaboration, and continuous learning within an organization.
 
-^**Key (\w+)**:
+**Key aspects**:
 
 Openness to New Ideas: The culture values and encourages new ideas from all people, where individuals feel comfortable expressing their thoughts and suggestions without fear of criticism or judgment.
 

@@ -2,7 +2,7 @@
 
 Innovation management refers to the processes, strategies, and activities that organizations employ to foster and control innovation within their operations. It involves the entire lifecycle from generating ideas to commercializing solutions. It requires organizational support, leadership, cross-functional collaboration, and calculated risk.
 
-^**Key (\w+)**:
+**Key aspects**:
 
 Idea Generation: Create a culture and system that encourages ideas. Consider brainstorming sessions, idea contests, suggestion programs, and collaborations with partners.
 

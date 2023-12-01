@@ -2,7 +2,7 @@
 
 Contingency theory, also known as the situational approach, is a management theory that there is no one-size-fits-all approach to leadership, and effective leadership is contingent upon various situational factors, such as the characteristics of the followers, the nature of the task or situation, and the external environment.
 
-^**Key (\w+)**:
+**Key aspects**:
 
 Leadership Styles: Contingency theory proposes that leaders can adopt different styles based on the situational demands. Common leadership styles include task-oriented or directive leadership, relationship-oriented or supportive leadership, participative or democratic leadership, and laissez-faire or hands-off leadership.
 

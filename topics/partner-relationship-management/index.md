@@ -2,7 +2,7 @@
 
 Partner Relationship Management (PRM) software facilitates and optimizes the management of partnerships and collaborations between organizations and their partners. PRM software provides a centralized platform to streamline partner interactions, communication, and collaboration, enabling businesses to enhance partner relationships and drive joint success.
 
-^**Key (\w+)**:
+**Key aspects**:
 
 Enablement: PRM helps automate and simplify the process of onboarding new partners, including registration, training, certification, documentation, and access to systems.
 

@@ -2,7 +2,7 @@
 
 Finding partnership opportunities involves a systematic approach to identifying potential partners that align with your organization's goals, values, and objectives.
 
-^**Key (\w+)**:
+**Key aspects**:
 
 Clarify Your Objectives: Define what you hope to achieve through partnerships, such as expanding your reach, accessing new markets, enhancing capabilities, or achieving shared social or environmental impact.
 
