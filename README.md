@@ -183,6 +183,7 @@ Innovation Partnership Guide. This book explains one topic per page, like a big 
 * [Active listening](topics/active-listening)
 * [Shoshin](topics/shoshin)
 * [Blameless retrospective](topics/blameless-retrospective)
+* [Dialogic Organization Development](topics/dialogic-organization-development)
 
 ## [Digital transformation](topics/digital-transformation)
 
