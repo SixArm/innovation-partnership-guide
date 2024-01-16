@@ -2,7 +2,7 @@
 
 Public-Private Partnership (PPP) is a collaborative arrangement between a government or public sector entity and a private sector company or consortium. In a PPP, both parties work together to develop, finance, operate, and maintain a project or deliver public services. PPPs are typically established for large-scale infrastructure projects, such as transportation systems, power plants, hospitals, or educational institutions.
 
-**Key aspects**:
+**Key aspects:**
 
 Shared Responsibilities: In a PPP, responsibilities and risks are shared between the public and private sectors. The government defines the project objectives and regulatory framework, while the private sector brings in innovation, technical expertise, financial resources, and operational capabilities.
 

@@ -5,6 +5,14 @@ summary: >
   Topics such as professional organizational collaboration, innovation research
   and development, commercialization of discoveries, cross-company legal
   structures, and technology transfer agreements.
+
+  The book explains one topic per page, akin to a big glossary of terminology, or collection of introductory wiki pages, or an encyclopedia collection of summary notes.
+bio: >
+  Joel Parker Henderson is a global 
+  technology consultant, programmer, 
+  open source leader, and book editor.
+  To learn more and to connect online:
+  https://linktr.ee/joelparkerhenderson
 categories:
   - Kindle Books / Business & Money / Business Development & Entrepreneurship / General ↗|Remove
   - Kindle Books / Business & Money / Organizational Behavior / Organizational Learning ↗|Remove
@@ -17,3 +25,12 @@ keywords:
   - business analysis
   - project portfolio management
   - objectives and key results
+isbn: ""
+paperback:
+  dimensions: 8x10 inch
+  finish: glossy
+  cover:
+    spine:
+      font: Open Sans 14pt
+      title-align: left
+      author-align: right

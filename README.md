@@ -13,8 +13,13 @@
 
 Innovation Partnership Guide. This book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the free ebook file [EPUB](innovation-partnership-guide.epub) or [PDF](innovation-partnership-guide.pdf).
-* Or pay what you wish with [Gumroad](https://gumroad.com/l/innovation-partnership-guide) or [Zylvie](https://zylvie.com/joelparkerhenderson/p/innovation-partnership-guide).
+* Get the book: 
+  [Free EPUB](https://github.com/SixArm/innovation-partnership-guide/raw/main/innovation-partnership-guide.epub), 
+  [Free PDF](https://github.com/SixArm/innovation-partnership-guide/raw/main/innovation-partnership-guide.pdf),
+  [Gumroad](https://gumroad.com/l/innovation-partnership-guide),
+  [Zylvie](https://zylvie.com/joelparkerhenderson/p/innovation-partnership-guide),
+  [Kindle](https://www.amazon.com/dp/B0CP72F5D4), 
+  [Paperback](https://www.amazon.com/dp/TODO).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions, [email me](mailto:joel@joelparkerhenderson.com).
 
