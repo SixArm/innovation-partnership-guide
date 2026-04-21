@@ -9,7 +9,7 @@
 
 # Innovation Partnership Guide
 
-<img src="README.jpg" alt="splash" style="width: 100%;"/>
+<img src="index.jpg" alt="splash" style="width: 100%;"/>
 
 Innovation Partnership Guide. This book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
